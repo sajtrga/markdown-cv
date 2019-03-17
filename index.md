@@ -3,7 +3,7 @@ layout: cv
 title: Oton Pavlič's CV
 ---
 # Oton Pavlič
-Physicist, Mathematician, Cambridge professor.
+Računalničar, glasbenik, elektronik.
 
 <div id="webaddress">
 <a href="pavlic.oton@gmail.com">pavlic.oton@gmail.com</a>
