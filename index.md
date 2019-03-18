@@ -3,7 +3,7 @@ layout: cv
 title: Oton Pavlič's CV
 ---
 # Oton Pavlič
-Physicist, Mathematician, Cambridge professor.
+Računalničar, glasbenik, elektronik.
 
 <div id="webaddress">
 <a href="pavlic.oton@gmail.com">pavlic.oton@gmail.com</a>
@@ -11,18 +11,50 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Izobrazba
 
-Standing on the shoulders of giants
+`2012 - 2016` Zavod sv. Stanislava, Škofijska klasična gimnazija
 
-### Specialized in
+`2016 - trenutno` Univerza v Ljubljani, Fakulteta za računalništvo in informatiko
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Zoisov štipendist
 
+## Delovne izkušnje
 
-### Research interests
+`2014 - 2017` Lenis farmacevtika d.o.o, Ljubljana (Slovenija)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Skeniranje dokumentov in urejanje baze podatkov
+- Skeniranje vizitk in urejanje imenika
+- Nadzor kakovosti embalaže in tiskanih navodil
+
+`2017 - v teku` M&O, Mojca Pavlič Drnovšek s.p., Medvode (Slovenija)
+
+- Načrtovanje elektronskih vezij
+- PCB dizajn (Eagle CAD)
+- Sestavljanje izdelkov
+- Programiranje vgrajenih sistemov
+
+`2017 - v teku` iSYSTEM Labs d.o.o., Trzin (Slovenija)
+
+- Programiranje vgrajenih sistemov
+- Načrtovanje elektronskih vezij (OrCAD)
+- GUI programiranje (Microsoft Visual C++)
+
+## Jezikovne kompetence
+
+### Materni jezik
+
+slovenščina
+
+### Drugi jeziki
+
+| Jezik      | Slušno razumevanje | Bralno razumevanje | Govorno sporazumevanje | Govorno sporočanje | Pisno sporočanje |
+| ---------- | :----------------: | :----------------: | :--------------------: | :----------------: | :--------------: |
+| angleščina | C2                 | C2                 | C2                     | C2                 | C2               |
+| ruščina    | A2                 | B1                 | A2                     | A2                 | A2               |
+| latinščina | A2                 | A2                 | A1                     | A1                 | A1               |  
+
+Legenda: A1 in A2 - Osnovni uporabnik, B1 in B2 - Samostojni uporabnik, C1 in C2 - Usposobljeni uporabnik
 
 
 ## Education
