@@ -40,6 +40,22 @@ Računalničar, glasbenik, elektronik.
 - Načrtovanje elektronskih vezij (OrCAD)
 - GUI programiranje (Microsoft Visual C++)
 
+## Strokovne kompetence
+
+- Napredno znanje programiranja vgrajenih sistemov (C, C++, ARM zbirni jezik)
+- Napredno znanje objektnega programiranja (Java, C++)
+- Napredno znanje digitalnega procesiranja signalov (Matlab, C++)
+- Napredno poznavanje GNU/Linux (Bash)
+- Napredno poznavanje audio opreme in studijskega dela (Cockos Reaper)
+- Dobro znanje spletnega programiranja (HTML, CSS, PHP, JavaScript, Node.js, Angular.js)
+- Dobro poznavanje orodij za računalniško grafiko (OpenGL, Unity, HLSL, GLSL)
+- Dobro poznavanje orodij za grafično oblikovanje (GIMP, Inkscape)
+- Osnovno znanje FPGA načrtovanja (VHDL)
+- Osnovno znanje načrtovanja elektronskih vezij (Eagle, OrCAD)
+- Osnovno znanje robotike (ROS)
+- Osnovno znanje umetnega zaznavanja in strojnega učenja (Matlab, Python, Tensorflow)
+- Osnovno poznavanje principov kvantnega računalništva in kvantnih algoritmov
+
 ## Jezikovne kompetence
 
 ### Materni jezik
