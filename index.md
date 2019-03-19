@@ -56,6 +56,10 @@ Računalničar, glasbenik, elektronik.
 - Osnovno znanje umetnega zaznavanja in strojnega učenja (Matlab, Python, Tensorflow)
 - Osnovno poznavanje principov kvantnega računalništva in kvantnih algoritmov
 
+## Druge kompetence
+
+- Glasbenik, multiinštrumentalist, član lokalne godbe, folklorne skupine in glasbenega dua
+
 ## Jezikovne kompetence
 
 ### Materni jezik
@@ -72,78 +76,13 @@ slovenščina
 
 Legenda: A1 in A2 - Osnovni uporabnik, B1 in B2 - Samostojni uporabnik, C1 in C2 - Usposobljeni uporabnik
 
+## Vozniško dovoljenje
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-## Testing
-
-`1800`
-<table>
-<tr><th>Testing</th><th>A</th><th>table</th></tr>
-<tr><td>Are</td><td>we</td><td>aligned?</td></tr>
-</table>
-
-| testing | an | nother | table |
-| ------- | -- | ------ | ----- |
-| hello   | w  | orld   | !     |
+- AM, B1, B, G
+- Izpit za voditelja čolna
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar 2019 -->
 
 
